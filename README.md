@@ -3,7 +3,7 @@
 
  This website was built for a digital marketing agency, who requested to have a codebase that follows accessibility standards. 
 
- ![]url("../images/digital-marketing-meeting.jpg")
+ ![](assets/images/online-reputation-management.jpg)
 
 ---
 # Table of contents 
